@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kos-Thita/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Kos-Thita/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0973-k-closest-points-to-origin](https://github.com/Kos-Thita/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kos-Thita/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/Kos-Thita/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/Kos-Thita/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kos-Thita/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Math
@@ -64,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Kos-Thita/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
