@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kos-Thita/LeetCode/tree/master/0242-valid-anagram) |
 | [0973-k-closest-points-to-origin](https://github.com/Kos-Thita/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kos-Thita/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Math
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kos-Thita/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kos-Thita/LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Kos-Thita/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
